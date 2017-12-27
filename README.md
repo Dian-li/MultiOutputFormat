@@ -5,6 +5,7 @@ MapReduce程序的Outputformat;
 分为两个版本,实现功能类似；
 
 **v0.1**
+
 一个文件
 MultipleOutputFormat.java
 
